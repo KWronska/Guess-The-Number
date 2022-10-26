@@ -53,8 +53,6 @@ def game_on():
     else:
         print("Ooops, wrong answer.")
 
-    return 'no'
-
 
 choice = input("Do you want to play 'Guess the number'? [yes, no]   ").lower()
 
